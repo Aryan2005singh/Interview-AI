@@ -1,19 +1,11 @@
 <div align="center">
 
-# 🚀 Career Pilot AI
+# 🚀 Interview-AI
 
 ### AI-Powered Interview Preparation Platform
 
 <p>
   <strong>Prepare smarter. Practice confidently. Land better opportunities.</strong>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Gemini-AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge" />
 </p>
 
 </div>
@@ -22,7 +14,7 @@
 
 ## 📌 Overview
 
-Career Pilot AI is an intelligent full-stack AI-powered interview preparation platform designed to help students and job seekers prepare effectively for real-world interviews.
+IAI is an intelligent full-stack AI-powered interview preparation platform designed to help students and job seekers prepare effectively for real-world interviews.
 
 This platform enables users to:
 
@@ -91,21 +83,8 @@ Track:
 
 ---
 
-# 🖼 Application Preview
-
-<div align="center">
-
-## Dashboard Interface
-
-<img src="./dashboard.png" width="900"/>
-
 <br><br>
 
-## Authentication Interface
-
-<img src="./login.png" width="900"/>
-
-</div>
 
 ---
 
@@ -152,7 +131,7 @@ Career-Pilot-AI/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Aman25427/Career-Pilot-AI.git
+git clone https://github.com/Aryan2005/Interview-AI.git
 ```
 
 ### Move into Project
@@ -208,7 +187,7 @@ npm start
 
 <div align="center">
 
-### Aman Singhania
+### Aryan kumar
 
 GitHub: https://github.com/Aryan2005
 
